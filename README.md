@@ -131,8 +131,6 @@ Trabalho em equipe.
 </details>
 
 ## Soft Skill (saber comportamental)
-# <img width="1049" height="593" alt="image" src="https://github.com/user-attachments/assets/4952e92c-74ba-4624-a52c-339e6f2ed82b" />
-
 <details>
 <summary>Soft Skills desenvolvidas</summary>
 Agilidade, Autodidata.
